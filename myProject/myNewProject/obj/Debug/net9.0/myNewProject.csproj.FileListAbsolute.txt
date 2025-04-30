@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\myProject\myNewProject\bin\Debug\net9.0\myNewProject.exe
+C:\Users\HP\Desktop\myProject\myNewProject\bin\Debug\net9.0\myNewProject.deps.json
+C:\Users\HP\Desktop\myProject\myNewProject\bin\Debug\net9.0\myNewProject.runtimeconfig.json
+C:\Users\HP\Desktop\myProject\myNewProject\bin\Debug\net9.0\myNewProject.dll
+C:\Users\HP\Desktop\myProject\myNewProject\bin\Debug\net9.0\myNewProject.pdb
+C:\Users\HP\Desktop\myProject\myNewProject\obj\Debug\net9.0\myNewProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\myProject\myNewProject\obj\Debug\net9.0\myNewProject.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\myProject\myNewProject\obj\Debug\net9.0\myNewProject.AssemblyInfo.cs
+C:\Users\HP\Desktop\myProject\myNewProject\obj\Debug\net9.0\myNewProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\myProject\myNewProject\obj\Debug\net9.0\myNewProject.dll
+C:\Users\HP\Desktop\myProject\myNewProject\obj\Debug\net9.0\refint\myNewProject.dll
+C:\Users\HP\Desktop\myProject\myNewProject\obj\Debug\net9.0\myNewProject.pdb
+C:\Users\HP\Desktop\myProject\myNewProject\obj\Debug\net9.0\myNewProject.genruntimeconfig.cache
+C:\Users\HP\Desktop\myProject\myNewProject\obj\Debug\net9.0\ref\myNewProject.dll
