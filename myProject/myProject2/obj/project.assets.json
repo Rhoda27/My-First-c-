@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\myProject\\myNewProject\\myNewProject.csproj",
-      "projectName": "myNewProject",
-      "projectPath": "C:\\Users\\HP\\Desktop\\myProject\\myNewProject\\myNewProject.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\myProject\\myProject2\\myProject2.csproj",
+      "projectName": "myProject2",
+      "projectPath": "C:\\Users\\HP\\Desktop\\myProject\\myProject2\\myProject2.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\myProject\\myNewProject\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\myProject\\myProject2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
